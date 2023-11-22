@@ -14,3 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## SHOPPING-LIST TUTORIAL
+[![Build status](https://build.appcenter.ms/v0.1/apps/6d34a3a1-0260-4f39-9dfd-84630e851488/branches/master/badge)](https://appcenter.ms)
